@@ -1,3 +1,0 @@
-new file))
-it's a good day for git
-getting acquainted :)
